@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
-  [''] 
+  ['94703970925', '𝚁𝙰𝚅𝙸𝙳𝚄 𝚁𝙰𝙽𝙰𝙻²⁰²³', true],
+  ['94703970925', '𝙺.𝙶.𝚁𝙰𝚅𝙸𝙳𝚄 𝚁𝙰𝙽𝙰𝙻²⁰²³', true], 
+  ['𝙍𝘼𝙑𝙄𝘿𝙐-𝙈𝘿'] 
 ] //Number of owners
 
 global.mods = ['94740804536','94740804536'] 
@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '𝑹𝑨𝑽𝑰𝒀𝑨-𝑴𝑫'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 Queen Hentai 💝 Created By 💝 Raviya Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
